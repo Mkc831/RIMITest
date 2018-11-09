@@ -1,7 +1,3 @@
-```
-Git是一个分布式的版本控制系统。
-```
-
 hahahahhaha
 
 lalalall
@@ -10,4 +6,6 @@ lalalall
 
 第二次修改
 
-在成都的
+在成都
+
+真是的
